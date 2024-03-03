@@ -2174,11 +2174,6 @@ hash = "d35eca8b8e960629890d82c35cc628f634010271fb64e3b5b98ebde0cbe2461a"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-tfc.pw.toml"
-hash = "0c634721025a8a8080f5a2401208b17753d2d4e1ff936d4f1653bc03d37e8efb"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
 metafile = true
@@ -2713,11 +2708,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "570d8ea67256d5fdcbba9504cb77c49dac326c1116d84e3c48ae5a6113fdf8a7"
-metafile = true
-
-[[files]]
-file = "mods/terrafirmacraft.pw.toml"
-hash = "0172bbc6fc2dbda5a769ceea2f335d9f21e8762a73a0b20b18f6215a274f6070"
 metafile = true
 
 [[files]]

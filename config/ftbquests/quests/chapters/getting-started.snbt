@@ -1,0 +1,85 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "a"
+	group: ""
+	icon: "minecraft:grass_block"
+	id: "54CDC48DCAA2D169"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		description: ["Here's a starter kit to get you started with your Adventure."]
+		icon: "minecraft:grass_block"
+		id: "6B9778011590BD2C"
+		rewards: [
+			{
+				id: "56614AABF34AD852"
+				item: {
+					Count: 1b
+					id: "minecraft:stone_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}
+			{
+				id: "27B8DEA34BE638F6"
+				item: {
+					Count: 1b
+					id: "minecraft:stone_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}
+			{
+				id: "3D201AB56A305692"
+				item: {
+					Count: 1b
+					id: "minecraft:stone_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}
+			{
+				count: 64
+				id: "1A8ED2601BB97D48"
+				item: "minecraft:torch"
+				type: "item"
+			}
+			{
+				count: 32
+				id: "4D9A891409969D3E"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"tfc:food": {
+							creationDate: 12000L
+							traits: [ ]
+						}
+					}
+					id: "minecraft:cooked_beef"
+				}
+				type: "item"
+			}
+			{
+				exclude_from_claim_all: true
+				id: "78B2935AD13F4AB3"
+				table_id: 1474224077545674769L
+				type: "choice"
+			}
+		]
+		tasks: [{
+			id: "4AD8272F4C99AE18"
+			title: "Starter Kit"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: -1.0d
+	}]
+	title: "Getting Started"
+}
