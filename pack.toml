@@ -1,0 +1,11 @@
+name = "Unnamed Project ATM"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b9d9cc0ba54a71f7975c2deef3eb0693831f1e0192249e21616c76d82a290316"
+
+[versions]
+forge = "47.2.20"
+minecraft = "1.20.1"
