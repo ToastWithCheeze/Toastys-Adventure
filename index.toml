@@ -1766,6 +1766,14 @@ file = "config/zeta-common.toml"
 hash = "988b64450afcf3ab25eb4cbcdb448ef25b44747031278cddfb10bbb9c1837b2e"
 
 [[files]]
+file = "mods/Structory_1.20.2_v1.3.4.jar"
+hash = "b23b6565cac9af8c30a3f5faa110b3b6def6aa0d6d410c178107aacc1524d9a5"
+
+[[files]]
+file = "mods/Structory_Towers_1.20.4_v1.0.6.jar"
+hash = "2af4f008074c2af7f67917ee921071f6a7e58ef0a0eef703884cf534a2cad71c"
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "2823f67bc12454a6941062d99254aba1e31b2b9b639a030c2d5548df9df863d1"
 metafile = true
@@ -1786,11 +1794,6 @@ hash = "7885154390b9961ed757a8f2178a09ab00f20a90d53fa9ba13851474a3d6fbe8"
 metafile = true
 
 [[files]]
-file = "mods/aether-delight.pw.toml"
-hash = "c1e73cda7be31eaa0cb6afbd430eae9ad811e6cbb1091abf09c6bc86f527dc0e"
-metafile = true
-
-[[files]]
 file = "mods/aether-lost-content.pw.toml"
 hash = "0093665794d9745c4d0529f78694aad2c852f31ea0e8f8cdc2fdc0d42ab86ca6"
 metafile = true
@@ -1804,6 +1807,10 @@ metafile = true
 file = "mods/aether.pw.toml"
 hash = "4867921530f3d20012bd33a737c21d2d34d2c8b7659e350376884606d30a984a"
 metafile = true
+
+[[files]]
+file = "mods/aether_delight_1.0.0_forge_1.20.1.jar"
+hash = "831d16ff6026f331d49b816d4f4f8e63e4c8e93040985791df30c5f6376b3c04"
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
@@ -1851,14 +1858,13 @@ hash = "e86f6cb8be0b72ee9920dd3745fec63eb46300d06ae78e3beb5a08dedc8ed46b"
 metafile = true
 
 [[files]]
-file = "mods/aquaculture-delight.pw.toml"
-hash = "9ebc6bed640c567887afff597d05a4679d2ac9bb6f5a49b8b203e754d36d4051"
-metafile = true
-
-[[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "a970ca6ffa0d4d985bc0bcb2e6b51c8a156e6e2a1118c924a4d5c213c9afd15c"
 metafile = true
+
+[[files]]
+file = "mods/aquaculture_delight_1.0.0_forge_1.20.1.jar"
+hash = "0be69b0e9ec97e13ef1f09d7281fd9367208188f53bb0b68e6e114900e9af071"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -2156,9 +2162,8 @@ hash = "98d56f19d311489359f641fcb43e01529c3144b45195d4771a928b87ecf180dd"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "5b5868d9da5c3d76ea1edf2fd19e7b1612e599a625f8e6ef6bf56859df0783b3"
-metafile = true
+file = "mods/entityculling-forge-1.6.2-mc1.20.1.jar"
+hash = "132ec1dc9127511f044eea7a8ff3636373ed7dcb3696e4b25c4215bc85e8a25c"
 
 [[files]]
 file = "mods/falling-leaves-forge.pw.toml"
@@ -2176,9 +2181,8 @@ hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
 metafile = true
 
 [[files]]
-file = "mods/farmers-utils.pw.toml"
-hash = "100acdc704da5ef58da8629b2d68066a91ab735d2d50f35d352d7b981b5c548d"
-metafile = true
+file = "mods/farmersutils-1.0.5-1.20.1.jar"
+hash = "42cb653f04ea1fbad89f7e3a2e7b3577fa2f01dedb9bc1b452ffed7b0246f611"
 
 [[files]]
 file = "mods/farsight.pw.toml"
@@ -2201,14 +2205,13 @@ hash = "c6a2d9b3f0a172663eb91a650de90332cf7adf41662c01a9d3ad581d66e32ada"
 metafile = true
 
 [[files]]
-file = "mods/fix-experience-bug.pw.toml"
-hash = "ff7228e40800d8cf94fee48f042bcf3ac2c8945cefa59007dc9a82394eda6872"
-metafile = true
-
-[[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
 metafile = true
+
+[[files]]
+file = "mods/fixexperiencebug-1.20-46.2.2.jar"
+hash = "08dc722aaa1bd61b4ee867badeb830e537b8362633197dd211c772a4a002f42e"
 
 [[files]]
 file = "mods/flux-networks.pw.toml"
@@ -2471,9 +2474,8 @@ hash = "7ba0e112218cd01024e4830e5c4682f31f450f076a8ce720da0108838866b947"
 metafile = true
 
 [[files]]
-file = "mods/more-overlays-updated.pw.toml"
-hash = "f77b147c1ba0dae6df313f77cff2926412f4a84c4dbcd6f049dd3d0643fb7a03"
-metafile = true
+file = "mods/moreoverlays-1.22.3-mc1.20.2.jar"
+hash = "d128037878f363861451e3b31da5ad120488ec28f6eb8330fd6e4b809318efcc"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
@@ -2681,16 +2683,6 @@ hash = "29d8215e0511484e2145ec7bf902c2ecba2113a2128460331612791b58dbe04c"
 metafile = true
 
 [[files]]
-file = "mods/structory-towers.pw.toml"
-hash = "3dedbd73490f068db41cc979d864ab97568506cfc5436c783ae7549a986eab42"
-metafile = true
-
-[[files]]
-file = "mods/structory.pw.toml"
-hash = "653307d3f6179063003abff7fd4688d7ba3008ea0396611a6eafb8ea615b861b"
-metafile = true
-
-[[files]]
 file = "mods/structure-compass.pw.toml"
 hash = "7ce547e1bcde25e2b64c170491f56d2e5c772b7ef9a7fa3ccd31bb56171f497e"
 metafile = true
@@ -2766,9 +2758,8 @@ hash = "00a0cba74675174812eea16aca533adfe9bac7b30a81a7e33dd81bd9343b45c4"
 metafile = true
 
 [[files]]
-file = "mods/undergarden-delight.pw.toml"
-hash = "e11a1689ced1b6561df189f3eecc17e3ed4ebfa5c1064bdd3f94271cd8a45d8e"
-metafile = true
+file = "mods/undergarden_delight_1.0.0_forge_1.20.1.jar"
+hash = "2cc067370f9b6f97a285ccf3e6858f54728b07eee73b28fe298353137ffd954d"
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
