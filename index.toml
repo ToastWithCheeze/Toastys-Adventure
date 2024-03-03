@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "17b174cef345aa8512bd7361add5c9704b31fe8ba787dd7e65a8097bada11a82"
-metafile = true
-
-[[files]]
 file = "config/Mekanism/client.toml"
 hash = "76132360abda99a40eccbead1433ccb688f5cca9b39cae1f568eb823947b576c"
 
@@ -1072,6 +1067,14 @@ hash = "9c0985b85e67e704a3640d028186dc0b220fa69404b9555244add55eaf5d4794"
 [[files]]
 file = "config/defaultoptions-common.toml"
 hash = "3c6307abe209aeab5c7ae65e011e1460d59826bde479b284c297f876cbb07355"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "929435f341c9e4ca349fa54fd4e957afcff70b89c76b95f9c4fb8076e7bd6218"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "17718739beadb32c3838be8d602f72e5ae372f43af30a1896ceb7b8c8285236c"
 
 [[files]]
 file = "config/delightful-common.toml"
@@ -2888,3 +2891,8 @@ hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
 hash = "1cfc99d8acde7d5daa40889b038d331feed6063183734a9e3fdaded7902242d0"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "17b174cef345aa8512bd7361add5c9704b31fe8ba787dd7e65a8097bada11a82"
+metafile = true
