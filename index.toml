@@ -1229,12 +1229,16 @@ file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/a.snbt"
-hash = "86809ae4d83f8f9bd2c541a5fd95c1c5073d584f12e1f4bbdee322b6d866168c"
+file = "config/ftbquests/quests/chapters/getting-started.snbt"
+hash = "d41978a2d109d894b06041c326e7fb4ef9fbc808912a600a2db43d4ff744500f"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
 hash = "4da9a893ddd5672427a9604000b1f708344512ea755dcc9d0c3fc2345c452dd1"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/sleeping_bags.snbt"
+hash = "aa84205cae1eb0153358c23ae5331e3928d1e6a86dcb538159d0c8ebebfc6098"
 
 [[files]]
 file = "config/functionalstorage/functionalstorage-client.toml"
