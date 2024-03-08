@@ -2069,6 +2069,11 @@ hash = "f71e7a191402acb1d98461a21a81a214cd5c9d5ccc9ab393e5afb63d896f7ee0"
 metafile = true
 
 [[files]]
+file = "mods/create-broken-bad.pw.toml"
+hash = "d8e5023e7cec827a6e7faf7d1e1d2a23aeba00ca8e78c03970842446e714e428"
+metafile = true
+
+[[files]]
 file = "mods/create-chunkloading.pw.toml"
 hash = "4d4c31e67204d3381f826c05e02e041126c5f7c10a26894cbcce924f6407a027"
 metafile = true
@@ -2189,6 +2194,11 @@ hash = "14e28dc2fa7a9d6355acc004991d9a7c5c9fa4dd5405fc3824e7a0ca6af06c34"
 metafile = true
 
 [[files]]
+file = "mods/enderchests.pw.toml"
+hash = "7afb25a983355be8d33e51a063d6e85817e37b03ccc331fbecaa863bd1d2f292"
+metafile = true
+
+[[files]]
 file = "mods/enders-delight.pw.toml"
 hash = "278f0ad867e28ea3db374f989ec2670e61439fcb48c99bbcd18b377440251e15"
 metafile = true
@@ -2211,6 +2221,16 @@ metafile = true
 [[files]]
 file = "mods/entityculling-forge-1.6.2-mc1.20.1.jar"
 hash = "132ec1dc9127511f044eea7a8ff3636373ed7dcb3696e4b25c4215bc85e8a25c"
+
+[[files]]
+file = "mods/ex-pattern-provider.pw.toml"
+hash = "c45990647191119f54361493855d1319f1fed9cc83f9f24960b2ef5139faa538"
+metafile = true
+
+[[files]]
+file = "mods/experience-obelisk.pw.toml"
+hash = "ca8381d28d733bfbd1916bfc18a25a2e59bd8e70c05596a783a7bd3231b74258"
+metafile = true
 
 [[files]]
 file = "mods/falling-leaves-forge.pw.toml"
@@ -2328,6 +2348,16 @@ metafile = true
 [[files]]
 file = "mods/geore.pw.toml"
 hash = "0f7929e5acd8a443afbae5e77a5b45472b49a7dc8a13bb77a516663193a4fbf9"
+metafile = true
+
+[[files]]
+file = "mods/glodium.pw.toml"
+hash = "eda0e7e00a4de2a3a9400dc4f00b8c98d8b5751373bbf7548d530edd6a5a43b6"
+metafile = true
+
+[[files]]
+file = "mods/hostile-neural-networks.pw.toml"
+hash = "ea16f2522038b31e0e715df28e4f4778903e91a92d2aebca6a4e5b49a27e4c33"
 metafile = true
 
 [[files]]
@@ -2483,6 +2513,11 @@ metafile = true
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
 hash = "a5c9c4409681fb848186182fb09aabd4d2cfcbd6fe4c46c219e4b2020b162b96"
+metafile = true
+
+[[files]]
+file = "mods/mahou-tsukai.pw.toml"
+hash = "7762c22a97a80243f9d8d48e9d50e641f9d06d0bdd5acd013c6fdf06ce92ebef"
 metafile = true
 
 [[files]]
@@ -2842,6 +2877,16 @@ metafile = true
 [[files]]
 file = "mods/undergarden_delight_1.0.0_forge_1.20.1.jar"
 hash = "2cc067370f9b6f97a285ccf3e6858f54728b07eee73b28fe298353137ffd954d"
+
+[[files]]
+file = "mods/xnet-gases.pw.toml"
+hash = "7ababc223fcf768c37b1c39061729942d6d7c3fea4b31890efd88d91a0067106"
+metafile = true
+
+[[files]]
+file = "mods/xnet.pw.toml"
+hash = "9076fa1a4115ccfb27bdc7cc5190c6c3e86b8b6e57d683e07b1e7a200fa95d98"
+metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
