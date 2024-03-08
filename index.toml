@@ -2233,6 +2233,11 @@ hash = "ca8381d28d733bfbd1916bfc18a25a2e59bd8e70c05596a783a7bd3231b74258"
 metafile = true
 
 [[files]]
+file = "mods/extreme-sound-muffler.pw.toml"
+hash = "2f63b1dca33be9ca4d721d7567dcd530c24fc147c9b01a8b52d204d4584386f6"
+metafile = true
+
+[[files]]
 file = "mods/falling-leaves-forge.pw.toml"
 hash = "d35eca8b8e960629890d82c35cc628f634010271fb64e3b5b98ebde0cbe2461a"
 metafile = true
